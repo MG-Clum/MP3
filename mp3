@@ -1,0 +1,8 @@
+class Voiture:
+    def __init__(self,immatriculation,marque,nom_proprio,abonnement,place):
+        self.immatriculation = immatriculation
+        self.marque = marque
+        self.nom_proprio = nom_proprio
+        self.abonnement = abonnement
+        self.place = place
+    
